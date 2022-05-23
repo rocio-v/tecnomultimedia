@@ -125,7 +125,8 @@ background (50);
 Gomi.resize (250, 250);
 image (Gomi,160,160);
 fill (227, 154, 44);
-text ("Reinicia y aprieta la T de Tocino para por repetir escenas",80,450);  
+textSize (30);
+text ("Reinicia y aprieta la T de Tocino para por repetir escenas",70,450);  
 }
 
 if (keyPressed){
