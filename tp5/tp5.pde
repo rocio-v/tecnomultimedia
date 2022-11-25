@@ -69,6 +69,9 @@ if (keyPressed && (key== '2')){
   ini.instruc();
  }
  
+ if (keyPressed && (key== 'j')){
+jueg.jue();
+}
 
 if (keyPressed && (key== 'c')){
   fin. creditos();
